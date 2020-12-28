@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad Akil - aka [Akilsagitarius][website] 👋
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Developer and Teacher!
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
