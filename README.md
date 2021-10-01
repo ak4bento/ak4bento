@@ -97,7 +97,7 @@
 </code>](https://www.kernel.org/)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akilsagitarius)](https://github.com/akilsagitarius&show_icons=true&theme=radical)
+[![Muhammad Akil GitHub stats](https://github-readme-stats.vercel.app/api?username=akilsagitarius&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/akilsagitarius)
 
 ## 📝 Latest Blog Posts
 
