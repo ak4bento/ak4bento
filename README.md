@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Akil - aka [Akilsagitarius][website] 👋
+### Hi there, I'm Muhammad Akil - aka [ak4bento][website] 👋
 
 ## I'm a Developer and Teacher!
 
@@ -98,9 +98,9 @@
 </code>](https://www.kernel.org/)
 
 ---
-[![Muhammad Akil GitHub stats](https://github-readme-stats.vercel.app/api?username=akilsagitarius&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/akilsagitarius)
+[![Muhammad Akil GitHub stats](https://github-readme-stats.vercel.app/api?username=ak4bento&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ak4bento)
 
-[![Muhammad Akil GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akilsagitarius&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/akilsagitarius)
+[![Muhammad Akil GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ak4bento&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ak4bento)
 
 ## 📝 Latest Blog Posts
 
@@ -115,7 +115,7 @@
 <!-- DEVTO:END -->
 
 [website]: https://akil.co.id
-[twitter]: https://twitter.com/akilsagitarius/
-[facebook]: https://www.facebook.com/akillsagitarius/
-[instagram]: https://www.instagram.com/akilsagitarius/
+[twitter]: https://twitter.com/ak4bento/
+[facebook]: https://www.facebook.com/ak4bento/
+[instagram]: https://www.instagram.com/ak4bento/
 [linkedin]: https://www.linkedin.com/in/muhammad-akil/
