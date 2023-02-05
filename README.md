@@ -1,13 +1,6 @@
 ### Hi there, I'm Muhammad Akil - aka [ak4bento][website] 👋
 
-## I'm a Developer and Teacher!
-
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Finishing library Javascript
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+## I'm a Fullstack Developer!
 
 ### Connect with me:
 
