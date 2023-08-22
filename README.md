@@ -53,4 +53,5 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Comment Your JavaScript Code](https://dev.to/ak4bento/comment-your-javascript-code-k0j)
 <!-- BLOG-POST-LIST:END -->
