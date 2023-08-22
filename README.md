@@ -1,29 +1,25 @@
-### Hi there, I'm Muhammad Akil - aka [ak4bento][website] 👋
 
-## I'm a Fullstack Developer!
+<p align="center"><img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-akil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ak4bento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 
-### Connect with me:
+### :woman_technologist: &nbsp;About Me :
 
-[<img align="left" alt="akill" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="akill | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="akill | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="akill | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="akill | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-<br />
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-muhammad--akil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-akil)
 
 ---
 
-### Languages and Tools:
-
-
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-
-  <p>
+### 🛠 &nbsp;Languages and Tools :
+<p>
 <a href="https://github.com/search?q=user%3Aak4bento+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Aak4bento+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Aak4bento+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -44,29 +40,17 @@
 <a href="https://github.com/search?q=user%3Aak4bento+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Aak4bento+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Aak4bento+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-  </p>
-
-</details>
+</p>
 
 ---
-[![Muhammad Akil GitHub stats](https://github-readme-stats.vercel.app/api?username=ak4bento&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ak4bento)
 
-[![Muhammad Akil GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ak4bento&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ak4bento)
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ak4bento&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## 📝 Latest Blog Posts
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak4bento&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Medium
+---
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
-### Dev Community
-
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
-
-[website]: https://akil.co.id
-[twitter]: https://twitter.com/ak4bento/
-[facebook]: https://www.facebook.com/ak4bento/
-[instagram]: https://www.instagram.com/ak4bento/
-[linkedin]: https://www.linkedin.com/in/muhammad-akil/
+### ✍️ Blog Posts : 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
