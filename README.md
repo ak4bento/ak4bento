@@ -50,7 +50,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak4bento&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### ✍️ Wakatime : 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+---
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
 - [Comment Your JavaScript Code](https://dev.to/ak4bento/comment-your-javascript-code-k0j)
