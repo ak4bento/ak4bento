@@ -64,7 +64,7 @@ Other                      1,513 hrs 1 min ████████████�
 <!--END_SECTION:waka-->
 
 ---
-### ✍️ Blog Posts : 
+### 📕 Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
 - [Comment Your JavaScript Code](https://dev.to/ak4bento/comment-your-javascript-code-k0j)
 <!-- BLOG-POST-LIST:END -->
