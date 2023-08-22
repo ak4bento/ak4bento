@@ -52,6 +52,15 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 ### ✍️ Wakatime : 
 <!--START_SECTION:waka-->
+
+```rust
+From: 21 August 2017 - To: 21 August 2023
+
+Total Time: 1,487 hrs 35 mins
+
+Other                      1,513 hrs 1 min ████████████▓░░░░░░░░░░░░   50.42 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
