@@ -4,7 +4,10 @@
 <a href="https://www.linkedin.com/in/muhammad-akil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/ak4bento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/ak4bento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="174"></a>
+</p>
+<p align="center">
+<a href="https://ko-fi.com/B0B5OI28F" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
 ### :woman_technologist: &nbsp;About Me :
