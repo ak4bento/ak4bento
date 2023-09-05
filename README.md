@@ -54,11 +54,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2017 - To: 03 September 2023
+From: 21 August 2017 - To: 04 September 2023
 
-Total Time: 1,515 hrs 50 mins
+Total Time: 1,515 hrs 54 mins
 
-Other                      1,587 hrs 47 mins████████████▓░░░░░░░░░░░░   51.16 %
+Other                      1,592 hrs 18 mins████████████▓░░░░░░░░░░░░   51.23 %
 ```
 
 <!--END_SECTION:waka-->
