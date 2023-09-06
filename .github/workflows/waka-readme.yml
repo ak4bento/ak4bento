@@ -29,11 +29,11 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: ak4bento # optional
-          AUTHOR_EMAIL: akil.dcc@gmail.com # optional
+          # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          # TARGET_BRANCH: master # optional
+          # TARGET_PATH: README.md # optional
+          # COMMITTER_NAME: GitHubActionBot # optional
+          # COMMITTER_EMAIL: action-bot@github.com # optional
+          # AUTHOR_NAME: ak4bento # optional
+          # AUTHOR_EMAIL: akil.dcc@gmail.com # optional
           # you can populate email-id with secretes instead
