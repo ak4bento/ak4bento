@@ -66,6 +66,7 @@ Other                      1,598 hrs 6 mins████████████�
 ---
 ### 📕 Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Instalasi GHC dan GHCi: Semua yang Perlu Anda Ketahui Tentang Compiler Haskell.](https://dev.to/ak4bento/instalasi-ghc-dan-ghci-semua-yang-perlu-anda-ketahui-tentang-compiler-haskell-1h5c)
 - [Cara implementasi Git Stash](https://dev.to/ak4bento/cara-implementasi-git-stash-2hp5)
 - [Comment Your JavaScript Code](https://dev.to/ak4bento/comment-your-javascript-code-k0j)
 <!-- BLOG-POST-LIST:END -->
