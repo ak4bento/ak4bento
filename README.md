@@ -54,11 +54,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2017 - To: 05 September 2023
-
-Total Time: 1,516 hrs 20 mins
-
-Other                      1,598 hrs 6 mins████████████▓░░░░░░░░░░░░   51.31 %
+Other          39 hrs 6 mins   ██████████████████████░░░   88.03 %
+Go             3 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Markdown       1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Canva Design   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
