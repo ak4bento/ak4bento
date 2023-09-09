@@ -54,11 +54,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Other          20 hrs 11 mins  █████████████████████░░░░   83.54 %
-Markdown       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Go             1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-HTML           43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-CSS            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other          12 hrs 3 mins   ████████████████▒░░░░░░░░   65.94 %
+Go             3 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Markdown       59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+HTML           43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+CSS            28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
