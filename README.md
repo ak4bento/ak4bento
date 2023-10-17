@@ -54,8 +54,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile   7 mins          ██████████████░░░░░░░░░░░   56.00 %
-JSON       5 mins          ███████████░░░░░░░░░░░░░░   44.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
