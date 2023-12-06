@@ -54,8 +54,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         5 hrs 48 mins   ████████████████████████░   95.42 %
-JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+HTML         5 hrs 40 mins   ███████████████████████▓░   95.32 %
+JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
