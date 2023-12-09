@@ -54,11 +54,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         6 hrs 30 mins   ████████████████████████░   95.76 %
-TOML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Go           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-tmux         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+HTML   2 hrs 50 mins   ███████████████████████▒░   92.97 %
+TOML   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Go     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+tmux   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Bash   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
