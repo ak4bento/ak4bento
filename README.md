@@ -54,10 +54,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   2 hrs 20 mins   █████████████████████░░░░   84.24 %
-HTML             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-PHP              9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-JavaScript       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Blade Template   3 hrs 27 mins   ████████████████████░░░░░   79.73 %
+PHP              33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+HTML             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
