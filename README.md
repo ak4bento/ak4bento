@@ -54,11 +54,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       3 hrs 4 mins    ███████████░░░░░░░░░░░░░░   43.63 %
-PHP              1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-JSON             1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-Vue.js           51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-HTML             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+JavaScript       3 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+PHP              3 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.28 %
+JSON             1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Vue.js           51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Blade Template   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 
 <!--END_SECTION:waka-->
