@@ -54,7 +54,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP     4 hrs 8 mins    ███████████████████████░░   91.82 %
+Bash    16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JSON    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
