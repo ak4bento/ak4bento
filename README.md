@@ -53,11 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              7 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   39.13 %
-Docker           6 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   31.20 %
-Bash             1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-YAML             1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-tmux             1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+PHP              7 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
+Docker           3 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+YAML             1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Bash             1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+tmux             1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
 ```
 
 <!--END_SECTION:waka-->
