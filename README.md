@@ -53,11 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Go          2 hrs 10 mins   ███████████████░░░░░░░░░░   60.02 %
-Lua         1 hr            ███████░░░░░░░░░░░░░░░░░░   27.83 %
-gitignore   24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-YAML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash        2 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   46.75 %
+Go          1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+Lua         1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
+gitignore   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+zsh         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
