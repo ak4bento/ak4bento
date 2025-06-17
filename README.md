@@ -53,11 +53,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Go         17 mins         █████████████████▒░░░░░░░   69.30 %
-Makefile   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Bash       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-TOML       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
