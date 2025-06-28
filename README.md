@@ -53,11 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   55 mins         ██████████████▓░░░░░░░░░░   58.68 %
-Vue.js       30 mins         ████████░░░░░░░░░░░░░░░░░   32.48 %
-Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JavaScript   55 mins         █████████████▒░░░░░░░░░░░   52.68 %
+Vue.js       30 mins         ███████▒░░░░░░░░░░░░░░░░░   29.16 %
+Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+TOML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Go           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
