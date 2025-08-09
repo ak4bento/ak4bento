@@ -53,9 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min           █████████████████████▓░░░   86.08 %
-Go           0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-gosum        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Go           1 hr 11 mins    ██████████████░░░░░░░░░░░   55.52 %
+Bash         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+Ruby         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Docker       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Makefile     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
 ```
 
 <!--END_SECTION:waka-->
