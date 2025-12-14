@@ -53,11 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         6 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   31.24 %
-Go           5 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-sh           4 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-Lua          1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-TOML         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Bash      6 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   28.07 %
+Go        4 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 %
+sh        4 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+SQL       4 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+TOML      1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 ```
 
 <!--END_SECTION:waka-->
