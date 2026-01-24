@@ -53,11 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-sh           45 mins         ██████████████░░░░░░░░░░░   55.99 %
-Bash         15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-Go           12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-TOML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-YAML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Go           12 mins         ████████████████░░░░░░░░░   64.24 %
+Bash         3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+sh           2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+sshconfig    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
