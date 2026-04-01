@@ -53,7 +53,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Python   15 mins               █████████████████████████   100.00 %
+Python   32 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
