@@ -53,11 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 41 mins          ████████████▒░░░░░░░░░░░░   49.71 %
-Other      1 hr 16 mins          █████████▒░░░░░░░░░░░░░░░   37.30 %
-Markdown   10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-JSON       8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-YAML       6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Python     1 hr 11 mins          ███████████▓░░░░░░░░░░░░░   46.44 %
+YAML       36 mins               ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Other      24 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+JSON       8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Markdown   8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
