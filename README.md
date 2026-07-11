@@ -53,8 +53,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 9 mins           ████████████████████████▓   98.21 %
-JSON         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+TypeScript   45 mins               ████████████████████████▒   97.28 %
+JSON         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
