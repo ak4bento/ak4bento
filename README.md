@@ -53,7 +53,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        16 mins               ███████████▓░░░░░░░░░░░░░   46.55 %
+TypeScript   8 mins                ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Markdown     8 mins                ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+JSON         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
