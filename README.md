@@ -53,11 +53,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 49 mins         █████████▒░░░░░░░░░░░░░░░   36.92 %
-Markdown     3 hrs 34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
-JavaScript   2 hrs 49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-TypeScript   1 hr 30 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-JSON         47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Python       4 hrs 53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+Markdown     4 hrs                 ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
+TypeScript   2 hrs 54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+JavaScript   2 hrs 49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+JSON         35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
