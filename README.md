@@ -53,11 +53,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 7 mins           █████████████▓░░░░░░░░░░░   54.32 %
-YAML       31 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-Other      25 mins               █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-HTML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Docker     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
